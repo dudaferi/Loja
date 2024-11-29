@@ -5,35 +5,35 @@
     box-sizing: border-box;
 }
 
-body {
+body{
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f4f4f4;
+    background-color: #c48f8f;
 }
 
 /* Cabeçalho */
-header {
-    background-color: #333;
-    color: #fff;
+header{
+    background-color: #8f5b5b;
+    color: #020101;
     padding: 10px 0;
     text-align: center;
 }
 
-header .logo h1 {
+header.logo h1{
     font-size: 2.5rem;
 }
 
-nav ul {
+nav.ul{
     list-style-type: none;
     margin-top: 10px;
 }
 
-nav ul li {
+nav.ul_li{
     display: inline;
     margin: 0 15px;
 }
 
-nav ul li a {
+nav ul li a{
     color: #fff;
     text-decoration: none;
     font-size: 1.2rem;
@@ -41,7 +41,6 @@ nav ul li a {
 
 /* Banner */
 .banner {
-    background: url('https://via.placeholder.com/1920x800') no-repeat center center/cover;
     color: white;
     text-align: center;
     padding: 100px 20px;
@@ -90,7 +89,7 @@ nav ul li a {
 .product-item {
     background-color: white;
     border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(255, 250, 250, 0.1);
     width: 30%;
     padding: 20px;
     margin: 20px;
@@ -130,7 +129,7 @@ nav ul li a {
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f4f4f4;
+    background-color: #646060;
 }
 
 /* Cabeçalho */
@@ -163,7 +162,6 @@ nav ul li a {
 
 /* Banner */
 .banner {
-    background: url('https://via.placeholder.com/1920x800') no-repeat center center/cover;
     color: white;
     text-align: center;
     padding: 100px 20px;
@@ -431,7 +429,7 @@ nav ul li a {
 .sobre {
     padding: 50px 20px;
     text-align: center;
-    background-color: #fff;
+    background-color: #050505;
 }
 
 .sobre h2 {
@@ -481,7 +479,7 @@ nav ul li a {
 
 /* Rodapé */
 footer {
-    background-color: #333;
+    background-color: #695454;
     color: white;
     text-align: center;
     padding: 20px 0;
@@ -540,8 +538,8 @@ footer {
 
 /* Rodapé */
 footer {
-    background-color: #333;
-    color: white;
+    background-color: #695454;
+    color: rgb(3, 2, 2);
     text-align: center;
     padding: 20px 0;
     margin-top: 50px;
