@@ -429,7 +429,7 @@ nav ul li a {
 .sobre {
     padding: 50px 20px;
     text-align: center;
-    background-color: #050505;
+    background-color: #e4dede;
 }
 
 .sobre h2 {
@@ -479,7 +479,7 @@ nav ul li a {
 
 /* Rodapé */
 footer {
-    background-color: #695454;
+    background-color: #333;
     color: white;
     text-align: center;
     padding: 20px 0;
@@ -538,8 +538,8 @@ footer {
 
 /* Rodapé */
 footer {
-    background-color: #695454;
-    color: rgb(3, 2, 2);
+    background-color: #333;
+    color: rgb(248, 242, 242);
     text-align: center;
     padding: 20px 0;
     margin-top: 50px;
